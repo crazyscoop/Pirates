@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Pirates.py", line 71, in <module>
+  File "Pirates.py", line 54, in __init__
+pygame.error: Couldn't open sprites/enemy.png
